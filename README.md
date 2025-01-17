@@ -37,3 +37,27 @@ This project aims to predict the price of Bitcoin using various machine learning
 1. Clone the repository:
    ```sh
    git clone https://github.com/Tahmoures54/Bitcoin-Price-Prediction.git
+   
+2. Navigate to the project directory:
+     ```sh
+cd Bitcoin-Price-Prediction
+3. Install the required dependencies:
+    ```sh
+ pip install -r requirements.txt
+Usage
+Initialize the database:
+
+sh
+python initialize_db.py
+Run the main application:
+
+sh
+python main.py
+Results
+The application provides real-time price updates, historical data storage, and predictive analytics through interactive visualizations and machine learning models. Exported data can be further analyzed in Excel.
+
+Contributions
+Feel free to fork the repository and submit pull requests. Any contributions are welcome!
+
+License
+This project is licensed under the MIT License.
