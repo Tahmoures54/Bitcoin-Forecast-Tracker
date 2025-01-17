@@ -1,8 +1,9 @@
 # Bitcoin-Forecast-Tracker
-A Python-based project for real-time Bitcoin price prediction and trading assistance. Features real-time data fetching, historical data storage, visualizations, Excel export, and predictive analytics using Linear Regression and ARIMA models. Includes a user-friendly GUI built with tkinter.
-# Bitcoin Price Prediction and Trading Assistance
+
+A Python-based project for real-time Bitcoin price prediction and trading assistance. This application features real-time data fetching, historical data storage, visualizations, Excel export, and predictive analytics using Linear Regression and ARIMA models. It includes a user-friendly GUI built with tkinter.
 
 ## Introduction
+
 This project aims to predict the price of Bitcoin using various machine learning models and provide valuable services to traders. The system fetches real-time Bitcoin prices, stores them in a local SQLite database, and offers features like data visualization, exporting to Excel, and trading signals.
 
 ## Features
@@ -32,26 +33,31 @@ This project aims to predict the price of Bitcoin using various machine learning
 - **Logging**: logging
 - **Threading**: threading
 - **Scheduling**: schedule
-- 
+
 ## Setup and Installation
+
+### Prerequisites
+Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+
+### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Tahmoures54/Bitcoin-Price-Prediction.git
+   git clone https://github.com/Tahmoures54/Bitcoin-Forecast-Tracker.git
 2. Navigate to the project directory:
   ```sh
-  cd Bitcoin-Price-Prediction
+   cd Bitcoin-Forecast-Tracker
 3. Install the required dependencies:
   ```sh
-  pip install -r requirements.txt
-
+   pip install -r requirements.txt
 ## Usage
-1.Initialize the database:
- ```sh
- python initialize_db.py
+1. Initialize the database:
+  ```sh
+   python initialize_db.py
 2. Run the main application:
   ```sh
-  python main.py
+   python main.py
 
+  
 ## Results
 The application provides real-time price updates, historical data storage, and predictive analytics through interactive visualizations and machine learning models. Exported data can be further analyzed in Excel.
 
@@ -61,4 +67,5 @@ Feel free to fork the repository and submit pull requests. Any contributions are
 ## License
 This project is licensed under the MIT License.
 
-   
+## Contact
+For software orders or assistance, please contact me on WhatsApp: +989363584718. 
