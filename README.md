@@ -43,16 +43,20 @@ Make sure you have Python installed on your machine. You can download it from [p
 1. Clone the repository:
    ```sh
    git clone https://github.com/Tahmoures54/Bitcoin-Forecast-Tracker.git
+   
 2. Navigate to the project directory:
   ```sh
    cd Bitcoin-Forecast-Tracker
+
 3. Install the required dependencies:
   ```sh
    pip install -r requirements.txt
+
 ## Usage
 1. Initialize the database:
   ```sh
    python initialize_db.py
+
 2. Run the main application:
   ```sh
    python main.py
