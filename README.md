@@ -71,4 +71,5 @@ Feel free to fork the repository and submit pull requests. Any contributions are
 This project is licensed under the MIT License.
 
 ## Contact
-"I am available for software orders or any financial assistance. If you find this software useful and would like to support me, please contact me on WhatsApp: +989363584718."
+ I am available for software orders or any financial assistance. If you find this software useful and would like to support me, please contact me on WhatsApp:
+ +98-936-358-4718.
